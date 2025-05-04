@@ -22,6 +22,7 @@
 - На проверку отправьте получившейся bash-скрипт и конфигурационный файл keepalived, а также скриншот с демонстрацией переезда плавающего ip на другой сервер в случае недоступности порта или файла index.html
 
 [Файл bash скрипта](https://github.com/AndreevAleksandr/DRandK/blob/main/Bash-script/check_port_web.sh)
+
 [Файл keepalived.conf](https://github.com/AndreevAleksandr/DRandK/blob/main/conf/keepalived.conf)
 
 ![Screen3](img/2-1-1.png)

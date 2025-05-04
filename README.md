@@ -8,7 +8,7 @@
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-[Схема .pkt файла](PKT Files/hsrp_advanced_AndreevAV.pkt)
+[Схема .pkt файла](https://github.com/AndreevAleksandr/DRandK/blob/main/PKT%20Files/hsrp_advanced_AndreevAV.pkt)
 
 ![Screen1](img/1_1.png)
 
